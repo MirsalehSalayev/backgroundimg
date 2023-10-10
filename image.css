@@ -1,0 +1,10 @@
+.background {
+    background-size:cover;
+    background-image:url("./aa-4.jpg");
+    background-position:center;
+    height: 100%;
+}
+html,body{
+    height:100%;
+    margin:0;
+  }
