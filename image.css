@@ -1,10 +1,24 @@
 .background {
     background-size:cover;
-    background-image:url("./1696951728_background-task.jpg");
+    background-image:url("./aa-4.jpg");
     background-position:center;
     height: 100%;
 }
 html,body{
     height:100%;
     margin:0;
+  }
+  .text{
+    flex-direction: column;
+    /* justify-content: space-between; */
+    display: flex;
+    text-align: center;
+    /* justify-content: center; */
+    font-size: 90px;
+    position: absolute;
+    bottom: 130px;
+    left: 120px;
+    color:red;
+    font-family:verdana
+
   }
